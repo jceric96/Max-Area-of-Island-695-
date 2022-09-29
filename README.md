@@ -26,7 +26,7 @@ Example 2:
 
 Given the above grid, return 0.
 
-输入描述
+input description:
 A non-empty 2D array containing 0's and 1's
 
 1 --> row number of grid
@@ -35,13 +35,14 @@ A non-empty 2D array containing 0's and 1's
 
 0 0 0 0 0 0 0 0 --> grid
 
-输出描述
+output description:
 The maximum area of an island
 
 
-样例输入
+input:
 1
 8
 0 0 0 0 0 0 0 0
-样例输出
+
+output:
 0
